@@ -9,33 +9,17 @@ Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el 
 <h2>Mis proyectos</h2>
 <ul>
   <li><strong>Kotlin</strong> - Proyecto grupal de back-end usando patrones de diseño</li>
-  <li><strong>C</strong> - Trabajo final de archivos</li>
-  <li><strong>Python</strong> - Proyecto grupales de redes neuronales y machine learning</li>
+  <li><strong>C</strong> - Trabajo final de <a href="https://github.com/franncoronel/TP-Laboratorio-De-Computacion-2">archivos.</a></li>
+  <li><strong>Python</strong> - Proyecto grupales de <a href="https://github.com/franncoronel/TP-PandaS-Matematica-3">análisis de datos</a> y <a href="https://github.com/franncoronel/TP-NN-Matematica-3">machine learning.</a></li>
   <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP</li>
   <!-- AGREGAR CUANDO ESTÉ TERMINADO <li>Desarrollo web - Portfolio</li> -->
 </ul>
 <h2>Lenguajes y herramientas de programación<h2>
 <div align=center>
-  <img src="assets/images.jpeg" height=60 width=60> <img src="assets/C_Logo.png" height=60 width=60> <img src="assets/python.png" height=60 width=60> <img src="assets/pandas_logo.png" height=60 width=80> <img src="assets/pngegg.png" height=60 width=80> <img src="assets/wollok.png" height=60 width=60>
+  <img src="assets/images.jpeg" alt="Logo de Kotlin" height=60 width=60> <img src="assets/C_Logo.png" alt="Logo de C" height=60 width=60> <img src="assets/python.png" alt="Logo de Python" height=60 width=60> <img src="assets/pandas_logo.png" alt="Logo de la librería Pandas" height=60 width=80> <img src="assets/pngegg.png" alt="Logo de la librería SciKit Learn" height=60 width=80> <img src="assets/wollok.png" alt="Logo del software educativo Wollok" height=60 width=60>
 </div>
-<h1>Contactame!</h1>
+<h1 align=center>Contactame!</h1>
 <ul>
-  <li>Mail - ffranncoronel@gmail.com</li>
+  <li>Mail - <a href="mailto:www.ffranncoronel@gmail.com">ffranncoronel@gmail.com</a></li>
   <li>Perfil de <a href="https://www.linkedin.com/in/coronelfrancisco/">LinkedIn</a></li>
 </ul>
- 
-
-<!--
-**franncoronel/franncoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
