@@ -9,8 +9,8 @@ Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el 
 <h2>Mis proyectos</h2>
 <ul>
   <li><strong>Kotlin</strong> - Proyecto grupal de back-end usando patrones de diseño.</li>
-  <li><strong>C</strong> - Trabajo final de <a href="https://github.com/franncoronel/TP-Laboratorio-De-Computacion-2">archivos</a>.</li>
-  <li><strong>Python</strong> - Proyecto grupales de <a href="https://github.com/franncoronel/TP-PandaS-Matematica-3">análisis de datos</a> y <a href="https://github.com/franncoronel/TP-NN-Matematica-3">machine learning</a>.</li>
+  <li><strong>C</strong> - Trabajo final individual de <a href="https://github.com/franncoronel/TP-Laboratorio-De-Computacion-2">archivos</a>.</li>
+  <li><strong>Python</strong> - Proyectos grupales de <a href="https://github.com/franncoronel/TP-PandaS-Matematica-3">análisis de datos</a> y <a href="https://github.com/franncoronel/TP-NN-Matematica-3">machine learning</a>.</li>
   <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP.</li>
   <!-- AGREGAR CUANDO ESTÉ TERMINADO <li>Desarrollo web - Portfolio</li> -->
 </ul>
