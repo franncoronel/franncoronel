@@ -6,8 +6,17 @@
 </tr>
 </table>
 Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el segundo de los tres años de la tecnicatura.
-
-<h2>Contactame!</h2>
+<h2>Mis proyectos</h2>
+<ul>
+  <li><strong>Kotlin</strong> - Proyecto grupal de back-end usando patrones de diseño</li>
+  <li><strong>C</strong> - Trabajo final de archivos</li>
+  <li><strong>Python</strong> - Proyecto grupales de redes neuronales y machine learning</li>
+  <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP</li>
+  <!-- AGREGAR CUANDO ESTÉ TERMINADO <li>Desarrollo web - Portfolio</li> -->
+</ul>
+<h2>Lenguajes y herramientas de programación<h2>
+<img src="assets/images.jpeg" height=60 width=60><img src="assets/C_Logo.png" height=60 width=60><img src="assets/python.jpg" height=60 width=60><img src="assets/pandas_logo.png" height=60 width=60><img src="assets/scikit.png" height=60 width=60><img src="assets/wollok.png" height=60 width=60>
+<h1>Contactame!</h1>
 <ul>
   <li>Mail - ffranncoronel@gmail.com</li>
   <li>Perfil de <a href="https://www.linkedin.com/in/coronelfrancisco/">LinkedIn</a></li>
