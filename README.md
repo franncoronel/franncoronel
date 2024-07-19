@@ -15,7 +15,9 @@ Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el 
   <!-- AGREGAR CUANDO ESTÉ TERMINADO <li>Desarrollo web - Portfolio</li> -->
 </ul>
 <h2>Lenguajes y herramientas de programación<h2>
-<img src="assets/images.jpeg" height=60 width=60><img src="assets/C_Logo.png" height=60 width=60><img src="assets/python.jpg" height=60 width=60><img src="assets/pandas_logo.png" height=60 width=60><img src="assets/scikit.png" height=60 width=60><img src="assets/wollok.png" height=60 width=60>
+<div align=center>
+  <img src="assets/images.jpeg" height=60 width=60> <img src="assets/C_Logo.png" height=60 width=60> <img src="assets/python.png" height=60 width=60> <img src="assets/pandas_logo.png" height=60 width=80> <img src="assets/pngegg.png" height=60 width=80> <img src="assets/wollok.png" height=60 width=60>
+</div>
 <h1>Contactame!</h1>
 <ul>
   <li>Mail - ffranncoronel@gmail.com</li>
