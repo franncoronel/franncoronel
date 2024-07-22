@@ -16,7 +16,7 @@ Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el 
 </ul>
 <h2>Lenguajes y herramientas de programación<h2>
 <div align=center>
-  <img src="assets/images.jpeg" alt="Logo de Kotlin" height=60 width=60> <img src="assets/C_Logo.png" alt="Logo de C" height=60 width=60> <img src="assets/python.png" alt="Logo de Python" height=60 width=60> <img src="assets/pandas_logo.png" alt="Logo de la librería Pandas" height=60 width=80> <img src="assets/pngegg.png" alt="Logo de la librería SciKit Learn" height=60 width=80> <img src="assets/wollok.png" alt="Logo del software educativo Wollok" height=60 width=60>
+  <img src="assets/images.jpeg" alt="Logo de Kotlin" height=60 width=60> <img src="assets/C_Logo.png" alt="Logo de C" height=70 width=60> <img src="assets/python.png" alt="Logo de Python" height=60 width=60> <img src="assets/pandas_logo.png" alt="Logo de la librería Pandas" height=60 width=80> <img src="assets/pngegg.png" alt="Logo de la librería SciKit Learn" height=60 width=80> <img src="assets/wollok.png" alt="Logo del software educativo Wollok" height=60 width=60>
 </div>
 <h1 align=center>Contactame!</h1>
 <ul>
