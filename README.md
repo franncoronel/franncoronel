@@ -5,7 +5,7 @@
   <td><img src="assets/UNSAM.jpg" alt="Logo de la Universidad Nacional de San Martín" height=50 width=120></td>
 </tr>
 </table>
-Actualmente estoy trabajando en un curso de desarrollo front-end, y cursando el segundo de los tres años de la tecnicatura.
+Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
 <h2>Mis proyectos</h2>
 <ul>
   <li><strong>Kotlin</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readApp_proyectoKotlin/tree/main"> back-end</a> usando patrones de diseño.</li>
