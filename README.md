@@ -2,9 +2,9 @@
 Tengo 23 años y estudio la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
 <h2>Mis proyectos</h2>
 <ul>
-  <li><strong>React</strong> - Proyecto grupal de front-end maquetado usando la biblioteca Chakra UI que se conecta al backend desarrollado en Kotlin.
-  <li><strong>Angular</strong> - Proyecto grupal de front-end maquetado "a mano" con HTML y CSS que también se conecta al backend desarrollado en Kotlin.
-  <li><strong>Kotlin</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readApp_proyectoKotlin/tree/main"> back-end</a> usando patrones de diseño y Spring Boot.</li>
+  <li><strong>React</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-react">front-end</a> maquetado usando la biblioteca Chakra UI que se conecta al backend desarrollado en Kotlin.
+  <li><strong>Angular</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-angular">front-end</a> maquetado a mano con HTML + CSS que también se conecta al backend desarrollado en Kotlin.
+  <li><strong>Kotlin</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-backend"> back-end</a> usando patrones de diseño y Spring Boot.</li>
   <li><strong>C</strong> - Trabajo final individual de <a href="https://github.com/franncoronel/TP-Laboratorio-De-Computacion-2">archivos</a>.</li>
   <li><strong>Python</strong> - Proyectos grupales de <a href="https://github.com/franncoronel/TP-PandaS-Matematica-3">análisis de datos</a> y <a href="https://github.com/franncoronel/TP-NN-Matematica-3">machine learning</a>.</li>
   <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP.</li>
