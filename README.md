@@ -2,7 +2,7 @@
 <table align=center>
 <tr>
   <td>Tengo 23 años y estudio la Tecnicatura en Programación Informática de la UNSAM.</td>
-  <td><img src="assets/UNSAM.jpg" alt="Logo de la Universidad Nacional de San Martín" height=50 width=120></td>
+  <td><img src="assets/UNSAM.jpg" alt="Logo de la Universidad Nacional de San Martín" height=100 width=200></td>
 </tr>
 </table>
 Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
