@@ -1,11 +1,5 @@
 <h1 align=center>Hola, soy Francisco Coronel 👋</h1>
-<table align=center>
-<tr>
-  <td>Tengo 23 años y estudio la Tecnicatura en Programación Informática de la UNSAM.</td>
-  <td><img src="assets/UNSAM.jpg" alt="Logo de la Universidad Nacional de San Martín" height=100 width=200></td>
-</tr>
-</table>
-Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
+Tengo 23 años y estudio la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
 <h2>Mis proyectos</h2>
 <ul>
   <li><strong>React</strong> - Proyecto grupal de front-end maquetado usando la biblioteca Chakra UI que se conecta al backend desarrollado en Kotlin.
