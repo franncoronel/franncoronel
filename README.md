@@ -13,7 +13,7 @@ Estoy cursando la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy
 </ul>
 <h2>Lenguajes y herramientas de programación<h2>
 <div align=center>
-  <img src="assets/Kotlin.png" alt="Logo de Kotlin" height=60 width=60> <img src="assets/Spring.png" alt="Logo de Spring Boot" height=60 width=60> <img src="assets/React.png" alt="Logo de ReactJS" height=60 width=60> <img src="assets/angular.png" alt="Logo de Angular" height=60 width=60> <img src="assets/C_Logo.png" alt="Logo de C" height=70 width=60> <img src="assets/python.png" alt="Logo de Python" height=60 width=60> <img src="assets/pandas_logo.png" alt="Logo de la biblioteca Pandas" height=60 width=80> <img src="assets/pngegg.png" alt="Logo de la biblioteca SciKit Learn" height=60 width=80> <img src="assets/wollok.png" alt="Logo del software educativo Wollok" height=60 width=60>
+  <img src="assets/Kotlin.png" alt="Logo de Kotlin" height=60 width=60> <img src="assets/Spring.png" alt="Logo de Spring Boot" height=60 width=60> <img src="assets/React.png" alt="Logo de ReactJS" height=60 width=60> <img src="assets/git_logo.png" alt="Logo de Git" height=60 width=60> <img src="assets/angular.png" alt="Logo de Angular" height=60 width=60> <img src="assets/C_Logo.png" alt="Logo de C" height=70 width=60> <img src="assets/python.png" alt="Logo de Python" height=60 width=60> <img src="assets/pandas_logo.png" alt="Logo de la biblioteca Pandas" height=60 width=80> <img src="assets/pngegg.png" alt="Logo de la biblioteca SciKit Learn" height=60 width=80> <img src="assets/wollok.png" alt="Logo del software educativo Wollok" height=60 width=60>
 </div>
 <h1 align=center>Contactame!</h1>
 <ul>
