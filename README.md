@@ -5,6 +5,7 @@ Estoy cursando la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy
   <li><strong>React</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-react">front-end</a> maquetado usando la biblioteca Chakra UI que se conecta al backend desarrollado en Kotlin.
   <li><strong>Angular</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-angular">front-end</a> maquetado a mano con HTML + CSS que también se conecta al backend desarrollado en Kotlin.
   <li><strong>Kotlin</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-backend"> back-end</a> usando patrones de diseño y Spring Boot.</li>
+  <li><strong>Git</strong> - <a href="https://github.com/franncoronel/Curso_git">Guía didáctica</a> sobre el uso de Git en base al curso <a href="https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/">Git for Distributed Software Development</a> de Linux Foundation
   <li><strong>C</strong> - Trabajo final individual de <a href="https://github.com/franncoronel/TP-Laboratorio-De-Computacion-2">archivos</a>.</li>
   <li><strong>Python</strong> - Proyectos grupales de <a href="https://github.com/franncoronel/TP-PandaS-Matematica-3">análisis de datos</a> y <a href="https://github.com/franncoronel/TP-NN-Matematica-3">machine learning</a>.</li>
   <li><strong>Wollok</strong> - Desarrollo grupal de un videojuego usando software educativo de OOP.</li>
