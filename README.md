@@ -1,5 +1,5 @@
 <h1 align=center>Hola, soy Francisco Coronel 👋</h1>
-Estoy cursando la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy un desarrollador full-stack con experiencia creando web apps en ReactJS y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
+Estoy cursando la Tecnicatura en Programación Informática de la UNSAM.<br/>Soy un desarrollador full-stack con experiencia creando web apps en React y Angular 18, y conectándolas con un backend hecho con Kotlin + Spring Boot.
 <h2>Mis proyectos</h2>
 <ul>
   <li><strong>React</strong> - Proyecto grupal de <a href="https://github.com/franncoronel/readapp-react">front-end</a> maquetado usando la biblioteca Chakra UI que se conecta al backend desarrollado en Kotlin.
